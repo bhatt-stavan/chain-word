@@ -71,7 +71,3 @@ The project will be developed as a **monorepo** using **Turborepo** to manage sh
 
 ## 🏁 Conclusion
 This documentation outlines the best practices and technical architecture for developing the **Chain Word Game**. By using a monorepo structure, integrating Supabase for real-time gameplay, and leveraging AWS for scalability, we ensure a **seamless, engaging, and scalable gaming experience**.
-
----
-### 📌 Next Steps
-Would you like to proceed with setting up the **monorepo structure** and backend database next? 🚀
